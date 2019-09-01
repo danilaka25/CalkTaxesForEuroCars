@@ -8,4 +8,5 @@ Use:
 <br>
 
 ![alttext](http://avocadocafe.com.ua/icon/Screenshot_4.jpg)
+![alttext](http://avocadocafe.com.ua/icon/Screenshot_5.jpg)
 
