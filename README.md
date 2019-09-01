@@ -7,5 +7,4 @@ Use:
 - Native PHP Wrapper for Telegram BOT API (https://github.com/TelegramBot/Api)
 <br>
 <br>
-![alt1](http://avocadocafe.com.ua/icon/Screenshot_4.jpg)<br>
-![alt2](http://avocadocafe.com.ua/icon/Screenshot_3.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
