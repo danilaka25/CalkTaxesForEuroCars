@@ -7,5 +7,5 @@ Use:
 - Native PHP Wrapper for Telegram BOT API (https://github.com/TelegramBot/Api)
 <br>
 <br>
-![alt text](http://avocadocafe.com.ua/icon/Screenshot_4.jpg)
-![alt text](http://avocadocafe.com.ua/icon/Screenshot_3.png)
+![alt1](http://avocadocafe.com.ua/icon/Screenshot_4.jpg)<br>
+![alt2](http://avocadocafe.com.ua/icon/Screenshot_3.png)
